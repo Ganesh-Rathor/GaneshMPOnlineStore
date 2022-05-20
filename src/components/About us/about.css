@@ -1,0 +1,27 @@
+.about{
+    width: 90%;
+    border:3px solid hsl(210, 3%, 47%);
+    border-radius: 2rem;
+    margin: 3rem auto;
+    padding: 2rem;
+}
+.note{
+    background-color: #B20600;
+    padding: .4rem;
+    color: white;
+    font-weight: 700;
+}
+@media screen and (max-width:600px) {
+    .about{
+        width: 100%;
+        border: none;
+    }
+    
+}
+
+@media screen and (max-width:350px) {
+    .about li{
+        list-style: none;
+        font-size: 1rem;
+    }
+}

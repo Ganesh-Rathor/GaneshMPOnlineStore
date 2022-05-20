@@ -1,0 +1,87 @@
+.home{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 2rem 0 0 0;
+}
+.alert{
+    color: #FF4949;
+    font-size: 1.8rem;
+    font-weight: 700;
+}
+.information{
+    margin-top: 3rem;
+    font-size: 1.9rem;
+    font-weight: 700;
+    color:#251D3A;
+}
+
+.service-btn{
+    border: 3px solid #041562;
+    background-color:#11468F ;
+    border-radius: .5rem;
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: #fff;
+    padding: 1rem 1.4rem;
+    margin-top: 3rem;
+    
+}
+.service-btn:hover{
+    background-color: #3E497A;
+    transform: scale(1.1);
+}
+hr{
+    color: gray;
+}
+
+@media screen and (max-width:1050px) {
+    html{
+        font-size: 90%;
+    }
+    .main-box{
+        width: 98%!important;
+    }
+    .service{
+        width: 16%!important;
+    }
+}
+@media screen and (max-width:880px) {
+    
+    .slider{
+        width: 42rem!important;
+        height: 20rem!important;
+    } 
+    .slider img{
+        height:20rem!important;
+    }
+}
+@media screen and (max-width:600px) {
+    html{
+        font-size:  80%;
+    }
+    .service{
+        width: 50%!important;
+    }
+    .slider{
+        width: 32rem!important;
+        height: 15rem!important;
+    } 
+    .slider img{
+        height:15rem!important;
+    }
+    .service-store-box{
+        width: 400%!important;
+    }
+}
+
+@media screen and (max-width:400px) {
+    .slider{
+        width: 22rem!important;
+        height: 10rem!important;
+    } 
+    .slider img{
+        height:10rem!important;
+    }
+}

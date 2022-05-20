@@ -1,0 +1,27 @@
+nav .logo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 2rem;
+}
+.title-logo{
+    font-weight: 800;
+    color: #362222;
+    background-image: linear-gradient(to right, #FF8D29 , #EFEFEF,#B4FF9F);
+    margin-bottom: .4rem;
+}
+.subtitle-logo{
+    font-weight: 500;
+    font-size: .91rem;
+}
+.nav-link{
+    cursor: pointer;
+}
+.navbar-nav button{
+    border: none;
+    background: transparent;
+}
+.navbar-nav button:hover{
+    color: black;
+}

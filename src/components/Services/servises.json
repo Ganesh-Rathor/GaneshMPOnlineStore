@@ -1,0 +1,196 @@
+{
+    "services":[
+        {
+            "key":1,
+            "name":"पैन कार्ड",
+            "money":260,
+            "type":"Banking",
+            "avlability":true,
+            "imgeType":"img",
+            "img":{
+                "type":"png",
+                "name":"pan"
+            }
+        },
+        {
+            "key":2,
+            "name":"आयुष्मान कार्ड",
+            "money":80,
+            "type":"Government",
+            "avlability":true,
+            "imgeType":"img",
+            "img":{
+                "type":"png",
+                "name":"ayushman"
+            }
+        },
+        {
+            "key":3,
+            "name":"ई-श्रम कार्ड",
+            "money":70,
+            "type":"Government",
+            "avlability":true,
+            "imgeType":"img",
+            "img":{
+                "type":"jfif",
+                "name":"e-shram"
+            }
+        },
+        {
+            "key":4,
+            "name":"पीएम किसान योजना",
+            "money":60,
+            "type":"Government",
+            "avlability":true,
+            "imgeType":"img",
+            "img":{
+                "type":"jpg",
+                "name":"pm-kisan"
+            }
+        },
+        {
+            "key":5,
+            "name":"आधार कार्ड अपडेट",
+            "money":60,
+            "type":"Government",
+            "avlability":false,
+            "imgeType":"img",
+            "img":{
+                "type":"png",
+                "name":"adhar"
+            }
+        },
+        {
+            "key":6,
+            "name":"पेसे निकालना",
+            "money":"20 on 1000",
+            "type":"Banking",
+            "avlability":true,
+            "imgeType":"i",
+            "i":"fa-solid fa-credit-card"
+        },
+        {
+            "key":7,
+            "name":"पेसे जमा करना",
+            "money":10,
+            "type":"Banking",
+            "avlability":true,
+            "imgeType":"i",
+            "i":"fa-solid fa-money-bill-transfer"
+        },{
+            "key":8,
+            "name":"मोबाइल रिचार्ज",
+            "money":0,
+            "type":"Mobile",
+            "avlability":true,
+            "imgeType":"i",
+            "i":"fa-solid fa-mobile"
+        },{
+            "key":8,
+            "name":"PayTm Kyc करना",
+            "money":50,
+            "type":"Banking",
+            "avlability":true,
+            "imgeType":"img",
+            "img":{
+                "type":"png",
+                "name":"patym"
+            }
+        },{
+            "key":9,
+            "name":"DTH टीवी रिचार्ज",
+            "money":20,
+            "type":"Banking",
+            "avlability":true,
+            "imgeType":"img",
+            "img":{
+                "type":"png",
+                "name":"dth"
+            }
+        },{
+            "key":10,
+            "name":"Jio सिम निकलना",
+            "money":250,
+            "type":"Mobile",
+            "avlability":true,
+            "imgeType":"img",
+            "img":{
+                "type":"png",
+                "name":"jio"
+            }
+        },{
+            "key":11,
+            "name":"Insurence",
+            "money":"!0",
+            "type":"Banking",
+            "avlability":true,
+            "imgeType":"i",
+            "i":"fa-solid fa-bed-pulse"
+        },{
+            "key":12,
+            "name":"बिजली बिल जामा करना",
+            "money":10,
+            "type":"Mobile",
+            "avlability":true,
+            "imgeType":"i",
+            "i":"fa-solid fa-bolt"
+        },{
+            "key":13,
+            "name":"TOP UP करना",
+            "money":20,
+            "type":"Mobile",
+            "avlability":true,
+            "imgeType":"i",
+            "i":"fa-brands fa-bitcoin"
+        },
+        {
+            "key":14,
+            "name":"Reedem करना",
+            "money":20,
+            "type":"Mobile",
+            "avlability":true,
+            "imgeType":"i",
+            "i":"fa-brands fa-google-play"
+        },
+        {
+            "key":15,
+            "name":"Fastag करना",
+            "money":20,
+            "type":"Mobile",
+            "avlability":true,
+            "imgeType":"i",
+            "i":"fa-solid fa-car"
+        },
+        {
+            "key":16,
+            "name":"Wesite बनाना",
+            "money":"!0",
+            "type":"Internet",
+            "avlability":true,
+            "imgeType":"i",
+            "i":"fa-brands fa-internet-explorer"
+        },
+        {
+            "key":17,
+            "name":" Airtel पेमेंट बैंक का खाता खोलना",
+            "money":"500",
+            "type":"Banking",
+            "avlability":true,
+            "imgeType":"img",
+            "img":{
+                "type":"png",
+                "name":"airtel"
+            }
+        },
+        {
+            "key":18,
+            "name":"Google-Pay चालू करना",
+            "money":"60",
+            "type":"Internet",
+            "avlability":true,
+            "imgeType":"i",
+            "i":"fa-brands fa-google-pay"
+        }
+        
+    ]
+}
